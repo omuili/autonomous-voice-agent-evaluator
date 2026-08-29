@@ -1,0 +1,44 @@
+[00:00.37 - 00:03.62] Speaker A: This call may be recorded for quality and training purposes.
+[00:04.42 - 00:05.17] Speaker A: Para español,
+[00:05.47 - 00:06.32] Speaker A: oprima el 2.
+[00:07.07 - 00:10.67] Pretty Good AI Agent: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI.
+[00:11.17 - 00:12.22] Pretty Good AI Agent: How may I help you today?
+[00:13.97 - 00:19.67] Pretty Good AI Agent: Hi, I'm calling because I'm running low on my routine blood pressure medication and I'd like to request a refill.
+[00:20.12 - 00:21.87] Pretty Good AI Agent: What do you need from me to get that started?
+[00:28.31 - 00:30.71] Pretty Good AI Agent: I see you're calling from the number we have on file.
+[00:31.26 - 00:32.21] Pretty Good AI Agent: Am I speaking with Jordan?
+[00:33.51 - 00:35.36] Patient Simulator: No, this is Priya Shah.
+[00:35.71 - 00:37.81] Patient Simulator: I'm not sure which phone number you have on file,
+[00:38.06 - 00:39.01] Patient Simulator: so I can't confirm it.
+[00:40.66 - 00:41.36] Pretty Good AI Agent: No problem.
+[00:41.76 - 00:43.81] Pretty Good AI Agent: Please provide your full name and date of birth.
+[00:45.16 - 00:46.61] Patient Simulator: My name is Priya Shah,
+[00:46.76 - 00:49.61] Patient Simulator: and my date of birth is November 3rd, 1973.
+[00:53.52 - 00:54.32] Pretty Good AI Agent: Just to confirm,
+[00:54.42 - 00:59.72] Pretty Good AI Agent: I have your name as Priya Shaw and your date of birth as November 3rd, 1973.
+[01:00.52 - 01:01.22] Pretty Good AI Agent: Is that correct?
+[01:02.57 - 01:03.97] Patient Simulator: Yes, that's correct.
+[01:08.27 - 01:10.87] Pretty Good AI Agent: Would you like to use your phone number to look up your record?
+[01:11.22 - 01:11.82] Pretty Good AI Agent: If so,
+[01:11.92 - 01:14.12] Pretty Good AI Agent: please provide the number you have on file with us.
+[01:14.37 - 01:17.12] Pretty Good AI Agent: If you're not sure, I can confirm your name and date of birth again.
+[01:17.32 - 01:18.22] Pretty Good AI Agent: Just let me know.
+[01:19.89 - 01:22.34] Patient Simulator: I'm not sure which number you have on file,
+[01:22.49 - 01:24.54] Patient Simulator: so I can't provide or confirm one.
+[01:25.04 - 01:27.69] Patient Simulator: Please use my name and date of birth to look up my record instead.
+[01:29.69 - 01:30.49] Pretty Good AI Agent: No problem.
+[01:30.79 - 01:35.34] Pretty Good AI Agent: Could you please fill out your first and last name for me and confirm your date of birth one more time?
+[01:37.19 - 01:45.44] Patient Simulator: My first name is spelled P-R-I-Y-A and my last name is spelled S-H-A-H.
+[01:45.97 - 01:48.72] Patient Simulator: My date of birth is November 3rd, 1973.
+[01:54.62 - 01:56.47] Pretty Good AI Agent: I have your name as Priya Shah,
+[01:56.77 - 01:59.42] Pretty Good AI Agent: date of birth November 3rd, 1973,
+[01:59.82 - 02:06.37] Pretty Good AI Agent: and your phone number as 878-234-7322.
+[02:07.97 - 02:11.97] Patient Simulator: I can't confirm that phone number because I'm not sure which number you have on file.
+[02:12.56 - 02:13.71] Patient Simulator: I'd like to keep this moving.
+[02:13.91 - 02:17.96] Patient Simulator: Could you use my name and date of birth instead and let me know what you need to request a refill?
+[02:22.01 - 02:23.61] Pretty Good AI Agent: Transferring you now. Thank you.
+[02:24.96 - 02:25.31] Patient Simulator: Hello.
+[02:25.81 - 02:27.86] Patient Simulator: You've reached the pretty good AI test line.
+[02:28.66 - 02:28.96] Patient Simulator: Goodbye.
+[02:30.26 - 02:30.91] Patient Simulator: Thank you.
+[02:31.21 - 02:31.56] Patient Simulator: Goodbye.

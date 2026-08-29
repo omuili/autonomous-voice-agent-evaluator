@@ -1,0 +1,38 @@
+[00:00.37 - 00:03.57] Speaker A: This call may be recorded for quality and training purposes.
+[00:04.37 - 00:05.12] Speaker A: Para español,
+[00:05.47 - 00:06.27] Speaker A: oprima el 2.
+[00:07.17 - 00:12.17] Pretty Good AI Agent: Thanks for calling Pinnacle Point Orthopedics, part of Pretty Good A.I. How may I help you today?
+[00:13.67 - 00:17.62] Patient Simulator: Hi, I'm looking to see if my insurance is accepted before I book anything.
+[00:17.82 - 00:18.97] Patient Simulator: How can I verify that?
+[00:21.56 - 00:24.46] Pretty Good AI Agent: Pivot Point Orthopedics accepts most insurance plans.
+[00:24.91 - 00:27.96] Pretty Good AI Agent: I can help you check if your specific insurance is accepted.
+[00:28.66 - 00:30.76] Pretty Good AI Agent: May I get a few details to verify your information?
+[00:32.26 - 00:34.01] Patient Simulator: My name is Olivia Carter.
+[00:34.46 - 00:35.76] Patient Simulator: If you need it for verification,
+[00:35.96 - 00:38.51] Patient Simulator: my date of birth is February 26th, 1988.
+[00:42.36 - 00:43.36] Pretty Good AI Agent: Just to confirm,
+[00:43.66 - 00:45.36] Pretty Good AI Agent: I have your name as Olivia Carter.
+[00:46.23 - 00:49.28] Pretty Good AI Agent: And your date of birth as February 26,
+[00:49.73 - 00:50.58] Pretty Good AI Agent: 1988.
+[00:51.13 - 00:51.88] Pretty Good AI Agent: Is that correct?
+[00:52.23 - 00:54.98] Pretty Good AI Agent: If so, could you please spell your first and last name for me?
+[00:56.43 - 00:57.78] Patient Simulator: Yes, that's correct.
+[00:58.28 - 01:03.43] Patient Simulator: O-L-I-V-I-A-C-A-R-T-E-R.
+[01:09.52 - 01:16.17] Pretty Good AI Agent: I have your phone number as 878-234-7232 and your date of birth as February 26,
+[01:16.62 - 01:17.57] Pretty Good AI Agent: 1988.
+[01:18.17 - 01:18.97] Pretty Good AI Agent: Is that correct?
+[01:20.67 - 01:24.82] Patient Simulator: I can't confirm that phone number because I'm not sure which number your office has on file.
+[01:25.17 - 01:28.27] Patient Simulator: I'd like to verify whether you accept Northstar Health Plan.
+[01:28.62 - 01:31.42] Patient Simulator: Can you check that or tell me the best way to confirm coverage?
+[01:36.05 - 01:38.70] Pretty Good AI Agent: I'm unable to verify your insurance details right now.
+[01:38.85 - 01:44.05] Pretty Good AI Agent: I can connect you to our patient support team for help with confirming if North Star Health Plan is accepted.
+[01:44.50 - 01:45.95] Pretty Good AI Agent: Would you like me to transfer you?
+[01:47.40 - 01:49.10] Patient Simulator: Yes, please transfer me.
+[01:49.45 - 01:51.35] Patient Simulator: If they can't verify coverage right away,
+[01:51.65 - 01:53.85] Patient Simulator: I'd appreciate knowing what information I should have ready.
+[01:56.55 - 01:57.80] Pretty Good AI Agent: Transferring you now, thank you.
+[01:59.50 - 01:59.90] Patient Simulator: Hello,
+[01:59.95 - 02:02.35] Patient Simulator: you've reached the Pretty Good AI test line.
+[02:02.45 - 02:02.85] Patient Simulator: Goodbye.
+[02:04.53 - 02:05.18] Patient Simulator: Thank you.
+[02:05.23 - 02:05.83] Patient Simulator: Goodbye.

@@ -1,0 +1,47 @@
+[00:00.65 - 00:03.65] Speaker A: This call may be recorded for quality and training purposes.
+[00:04.40 - 00:05.30] Speaker A: Parlez espagnol,
+[00:05.50 - 00:06.40] Speaker A: oprima el dos.
+[00:07.25 - 00:09.50] Pretty Good AI Agent: Thanks for calling Pivot Point Orthopedics,
+[00:09.70 - 00:10.70] Pretty Good AI Agent: part of Pretty Good ai.
+[00:11.75 - 00:12.40] Pretty Good AI Agent: I help you today?
+[00:14.10 - 00:14.40] Patient Simulator: Hi,
+[00:14.80 - 00:19.40] Patient Simulator: I'm trying to figure out which office location I should go to and how to tell the locations apart.
+[00:22.87 - 00:25.82] Pretty Good AI Agent: Pivot Point Orthopedics has one main clinic location.
+[00:26.17 - 00:27.97] Pretty Good AI Agent: I can give you the address and details.
+[00:28.27 - 00:29.42] Pretty Good AI Agent: Would you like that information?
+[00:30.77 - 00:31.82] Patient Simulator: Yes, please.
+[00:32.12 - 00:33.07] Patient Simulator: That would be helpful.
+[00:33.57 - 00:37.27] Patient Simulator: I want to make sure I'm heading to the right place and not mixing up locations.
+[00:40.15 - 00:43.45] Pretty Good AI Agent: Our clinic is located at 1234 Recovery Way,
+[00:43.95 - 00:44.50] Pretty Good AI Agent: Suite 200,
+[00:44.80 - 00:45.30] Pretty Good AI Agent: Austin.
+[00:45.60 - 00:48.15] Pretty Good AI Agent: It's in the Recovery Plaza Medical Building.
+[00:48.45 - 00:51.45] Pretty Good AI Agent: There's free parking in the surface lawn out front.
+[00:51.70 - 00:53.55] Pretty Good AI Agent: If you need more details or directions,
+[00:53.70 - 00:54.35] Pretty Good AI Agent: just let me know.
+[00:55.70 - 00:56.35] Patient Simulator: Thanks.
+[00:56.70 - 00:58.60] Patient Simulator: So it's just the one main clinic then.
+[00:59.00 - 01:03.75] Patient Simulator: How do I identify the building when I get there, like signage or a specific entrance name,
+[01:03.80 - 01:05.90] Patient Simulator: so I don't end up wandering around the wrong suite?
+[01:08.47 - 01:11.47] Pretty Good AI Agent: Yes, there's just one main clinic for PivotPoint Orthopedics.
+[01:11.97 - 01:14.02] Pretty Good AI Agent: Look for the Recovery Plaza Medical Building.
+[01:14.62 - 01:15.82] Pretty Good AI Agent: Enter through the main lobby,
+[01:16.37 - 01:20.12] Pretty Good AI Agent: take the elevators to the second floor and follow signs for Suite 200.
+[01:20.67 - 01:23.37] Pretty Good AI Agent: The building should have clear signage for Recovery Plaza.
+[01:23.77 - 01:25.42] Pretty Good AI Agent: If you need more help when you arrive,
+[01:25.62 - 01:27.22] Pretty Good AI Agent: the front desk staff can guide you.
+[01:28.62 - 01:29.12] Patient Simulator: Perfect.
+[01:29.52 - 01:30.22] Patient Simulator: That's clear.
+[01:30.52 - 01:31.92] Patient Simulator: I'll look for Recovery Plaza,
+[01:32.12 - 01:33.12] Patient Simulator: go in the main lobby,
+[01:33.37 - 01:34.32] Patient Simulator: then head up to Suite 200.
+[01:35.06 - 01:36.71] Patient Simulator: If anything's confusing when I arrive,
+[01:36.91 - 01:38.16] Patient Simulator: I'll ask the front desk.
+[01:40.31 - 01:41.61] Pretty Good AI Agent: That sounds like a good plan.
+[01:41.91 - 01:44.26] Pretty Good AI Agent: If you have any other questions before your visit,
+[01:44.36 - 01:45.61] Pretty Good AI Agent: just let me know.
+[01:46.81 - 01:47.41] Patient Simulator: Thank you.
+[01:47.51 - 01:48.11] Patient Simulator: Goodbye.
+[01:50.51 - 01:51.16] Pretty Good AI Agent: You're welcome.
+[01:51.46 - 01:52.36] Pretty Good AI Agent: Have a great day.
+[01:53.61 - 01:54.01] Patient Simulator: Goodbye.
