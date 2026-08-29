@@ -116,7 +116,7 @@ My final evidence set contains 10 selected calls:
 9. `barge_in` — interruption and turn-taking behavior.
 10. `identity_isolation` — new-patient identity isolation edge case.
 
-I completed additional development and validation calls, but I selected these 10 because together they provide the clearest coverage of the challenge requirements and the strongest mix of successful and unsuccessful behavior. The exact call IDs are listed in [`CALL_SELECTION.md`](CALL_SELECTION.md).
+I completed additional development and validation calls, but I selected these 10 because together they provide the clearest coverage of the challenge requirements and the strongest mix of successful and unsuccessful behavior. The evidence for each selected call is available directly in its scenario folder under evidence/.
 
 ## Evidence
 
@@ -193,6 +193,5 @@ The integration tests use mocks and do not place paid telephone calls.
 
 - [`evidence/`](evidence/) — 10 selected calls with MP3 recording, transcript, and report.
 - [`FINAL_BUG_REPORT.md`](FINAL_BUG_REPORT.md) — consolidated human-reviewed findings.
-- [`CALL_SELECTION.md`](CALL_SELECTION.md) — exact selected-call manifest.
 - [`ARCHITECTURE.md`](ARCHITECTURE.md) — concise architecture and tradeoff note.
 
